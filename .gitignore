@@ -59,6 +59,21 @@
 .local/share/mc/
 .ssh/
 
+# Игнорировать файлы и каталоги
+.bash_history
+.bashrc
+.gitconfig
+.inputrc
+.lesshst
+.profile
+.selected_editor
+.wget-hsts
+openmediavault-omvextrasorg_latest_all7.deb
+
+
+
+
+
 
 
 # IDE Project files
