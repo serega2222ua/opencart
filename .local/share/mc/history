@@ -1,0 +1,32 @@
+[cmdline]
+0=
+
+[inpmc.fm.mkdir]
+0=pve1
+1=n100
+2=proxmox_backups
+3=proxmox_snapshots
+4=opencart
+
+[Dir Hist New Right Panel]
+0=/opt/opencart
+1=/root
+
+[Dir Hist New Left Panel]
+0=/etc/netplan
+1=/mnt/omv_lvm/lost+found
+2=/mnt/omv_lvm/pve1
+3=/etc/apt
+4=/etc/apt/sources.list.d
+5=/mnt/omv_lvm
+6=/mnt/omv_lvm/n100
+7=/etc
+8=/mnt
+9=/export/omvStorage
+10=/export
+11=/opt/containerd
+12=/opt/opencart/php.ini
+13=/root
+14=/
+15=/opt
+16=/opt/opencart
