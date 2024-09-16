@@ -1,3 +1,5 @@
 [user]
 	name = serega2222
 	email = gelezaka2016@gmail.com
+[pull]
+	rebase = false
