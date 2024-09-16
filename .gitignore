@@ -52,6 +52,14 @@
 /system/storage/*
 !/system/storage/index.html
 
+# Игнорировать каталоги
+.cache/
+.config/
+.gnupg/
+.local/share/mc/
+.ssh/
+
+
 
 # IDE Project files
 /.idea
